@@ -1,5 +1,5 @@
 import { StyledApp } from "./AppStyles";
-import Header from "./componenst/Header/Header";
+import Header from "./components/Header/Header";
 
 
 
